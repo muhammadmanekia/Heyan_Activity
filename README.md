@@ -1,4 +1,4 @@
-# Heyan_Activity
+# Heyan Activity
 Active Lifestyle Track and Share
 
 This is a react native app that allows users to track their active lifestyle and share their activities with friends. The idea and design was inspired by “Tractiv” design by Adobe.
