@@ -36,19 +36,24 @@ Home
 
 Activity Track Page
 
+<div style={{display: "flex"}}>
 <img width="200" alt="Screen Shot 2022-10-29 at 5 14 29 PM" src="https://user-images.githubusercontent.com/85075187/198854704-5a9b0c19-a6b5-403a-ae1f-f8133327f592.png">
 <img width="200" alt="Screen Shot 2022-10-29 at 5 14 33 PM" src="https://user-images.githubusercontent.com/85075187/198854712-e8c5c894-a753-48d4-8608-e0f672ee821d.png">
-
+</div> 
 Activity Page
 
+<div style={{display: "flex"}}>
 <img width="200" alt="Screen Shot 2022-10-29 at 5 14 39 PM" src="https://user-images.githubusercontent.com/85075187/198854720-15c96fc6-a723-420a-98a8-22bcd9288fa5.png">
 <img width="200" alt="Screen Shot 2022-10-29 at 5 26 11 PM" src="https://user-images.githubusercontent.com/85075187/198854723-6b91cffb-6a9a-4a55-9ebf-da2ac58e66c4.png">
 <img width="200" alt="Screen Shot 2022-10-29 at 5 26 22 PM" src="https://user-images.githubusercontent.com/85075187/198854728-510dae24-73bf-4388-9efb-ace9ed754186.png">
+</div>
 
 Discover Page
 
+<div style={{display: "flex"}}>
 <img width="200" alt="Screen Shot 2022-10-29 at 5 26 46 PM" src="https://user-images.githubusercontent.com/85075187/198854733-0fc82347-d1a7-40fe-a0cf-188e9c0ee4ea.png">
 <img width="200" alt="Screen Shot 2022-10-29 at 5 26 56 PM" src="https://user-images.githubusercontent.com/85075187/198854740-53f19913-14a3-4314-a69b-bab0ca32621c.png">
+</div>
 
 Profile Page
 
